@@ -58,4 +58,4 @@ N/A
 This project is licensed under the MIT license.
 
 ## Questions
- If you have any questions, please contact me at chasegarrett@tutanota.com. You can also visit my [GitHub](https://github.com/Chase-Garrett) for more of my work. You are also free to visit and reach out to any of the other contributors to this project, simply click on their profile image displayed under [Contributors](#contributors) for more of their information.
+You can also visit my [GitHub](https://github.com/brycehadl) for more of my work. You are also free to visit and reach out to any of the other contributors to this project, simply click on their profile image displayed under [Contributors](#contributors) for more of their information.
