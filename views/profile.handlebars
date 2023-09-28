@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="row align-items-center">
+    <div>
+      <h2 class="text-center welcome-user">Welcome, {{username}}!</h2>
+    </div>
+    <div class="justify-center">
+      {{#if characters.length}}
+      <div class="text-center character-list">
+        <h3 class="custom-spacing">Your Character Sheets</h3>
+
+        {{#each characters as |character|}}
+        <div class="">
+          <div class="">
+            <h4><a href="/character/{{character.id}}">{{character.name}}</a></h4>
+          </div>
+          <div class="">
+            <button class="btn btn-sm btn-danger" data-id="{{character.id}}">DELETE</button>
+          </div>
+        </div>
+        {{/each}}
+      </div>
+      {{/if}}
+    </div>
+    <div class="fixed-bottom custom-spacing">
+      <form class="form new-character">
+        <div class="form-group text-center">
+          <h3>Create a new character sheet below</h3>
+          <button type="submit" class="btn btn-primary custom-color">Create</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<script src="/js/profile.js"></script>
