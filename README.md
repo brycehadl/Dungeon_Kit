@@ -33,7 +33,8 @@ After logging in or signing up you will be taken to your profile page where you 
 Below are some examples of the various pages from Dungeonkit.
 
 ![login page](/screenshots/login.png)
-![signup page](/screenshots/signup.png)
+![signup page](/screenshots/![signup](https://github.com/brycehadl/Dungeon_Kit/assets/133932050/200a1239-a2dc-41b2-94eb-49809507d2cf)
+)
 ![profile page](/screenshots/profile.png)
 ![character sheet](/screenshots/charsheet.png)
 
