@@ -33,8 +33,7 @@ After logging in or signing up you will be taken to your profile page where you 
 Below are some examples of the various pages from Dungeonkit.
 
 ![login page](/screenshots/login.png)
-![signup page](/screenshots/![signup](https://github.com/brycehadl/Dungeon_Kit/assets/133932050/200a1239-a2dc-41b2-94eb-49809507d2cf)
-)
+![signup page](/screenshots/signup.png)
 ![profile page](/screenshots/profile.png)
 ![character sheet](/screenshots/charsheet.png)
 
@@ -49,6 +48,7 @@ This project utilizes node.js and express.js for backend functionality. Frontend
 [![](https://github.com/brycehadl.png?size=50)](https://github.com/brycehadl)
 [![](https://github.com/TooSparky.png?size=50)](https://github.com/TooSparky)
 [![](https://github.com/bryanreyes8991.png?size=50)](https://github.com/bryanreyes8991)
+
 
 ## Tests
 
